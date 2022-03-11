@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ... Nothing
 - 📫 How to reach me ... ¯\\_(ツ)\_/¯
 - I'm fairly stupid and unskilled so far.
+- I like the number 8
 
 <!---
 ImTrainer8/ImTrainer8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
